@@ -1,0 +1,14 @@
+C:\Users\stasb\Desktop\custom valorant spoofer\custom valorant spoofer\VALORANT CUSTOM\bin\Release\VALORANT CUSTOM.exe.config
+C:\Users\stasb\Desktop\custom valorant spoofer\custom valorant spoofer\VALORANT CUSTOM\bin\Release\VALORANT CUSTOM.exe
+C:\Users\stasb\Desktop\custom valorant spoofer\custom valorant spoofer\VALORANT CUSTOM\bin\Release\VALORANT CUSTOM.pdb
+C:\Users\stasb\Desktop\custom valorant spoofer\custom valorant spoofer\VALORANT CUSTOM\bin\Release\Guna.UI2.dll
+C:\Users\stasb\Desktop\custom valorant spoofer\custom valorant spoofer\VALORANT CUSTOM\obj\Release\VALORANT CUSTOM.csproj.AssemblyReference.cache
+C:\Users\stasb\Desktop\custom valorant spoofer\custom valorant spoofer\VALORANT CUSTOM\obj\Release\VALORANT CUSTOM.csproj.SuggestedBindingRedirects.cache
+C:\Users\stasb\Desktop\custom valorant spoofer\custom valorant spoofer\VALORANT CUSTOM\obj\Release\VALORANT_CUSTOM.Form1.resources
+C:\Users\stasb\Desktop\custom valorant spoofer\custom valorant spoofer\VALORANT CUSTOM\obj\Release\VALORANT_CUSTOM.Form2.resources
+C:\Users\stasb\Desktop\custom valorant spoofer\custom valorant spoofer\VALORANT CUSTOM\obj\Release\VALORANT_CUSTOM.Properties.Resources.resources
+C:\Users\stasb\Desktop\custom valorant spoofer\custom valorant spoofer\VALORANT CUSTOM\obj\Release\VALORANT CUSTOM.csproj.GenerateResource.cache
+C:\Users\stasb\Desktop\custom valorant spoofer\custom valorant spoofer\VALORANT CUSTOM\obj\Release\VALORANT CUSTOM.csproj.CoreCompileInputs.cache
+C:\Users\stasb\Desktop\custom valorant spoofer\custom valorant spoofer\VALORANT CUSTOM\obj\Release\VALORANT CUSTOM.csproj.CopyComplete
+C:\Users\stasb\Desktop\custom valorant spoofer\custom valorant spoofer\VALORANT CUSTOM\obj\Release\VALORANT CUSTOM.exe
+C:\Users\stasb\Desktop\custom valorant spoofer\custom valorant spoofer\VALORANT CUSTOM\obj\Release\VALORANT CUSTOM.pdb
